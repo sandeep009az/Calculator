@@ -1,4 +1,3 @@
 # Calculator
-Rebuilding My Career 
 
-Starting with basic projects -  calculator using tkinter 
+Basic projects- 1 -  calculator using tkinter 
